@@ -1,0 +1,11 @@
+Package: stackr
+Type: Package
+Title: Function to ass Caught Errors to a Stackoverflow Query
+Version: 0.0.0.9000
+Authors@R: person("Tom", "Constant", email="t.j.constant@gmail.com", role = c("aut", "cre") )
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
